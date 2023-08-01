@@ -1,0 +1,20 @@
+{
+    "name": "Weather Data",
+    "data": [
+        {
+            "country": "laos",
+            "weather": "rainy",
+            "temperature": "15 C"
+        },
+        {
+            "country": "indonesia",
+            "weather": "sunny",
+            "temperature": "18 C"
+        },
+        {
+            "country": "germany",
+            "weather": "winter",
+            "temperature": "11 C"
+        }
+    ]
+}
